@@ -1,0 +1,25 @@
+.home{
+    background-color: aqua;
+    margin-top: 10px;
+    margin-bottom: 150px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.userId{
+    margin-left: 5px;
+    background-color: blueviolet;
+    padding-top: 5px;
+}
+.restaurantId{
+    margin-right: 5px;
+    background-color: cadetblue;
+
+}
+#userId{
+    color:fuchsia
+}
+.thankyou{
+    text-align: center;
+    color: yellowgreen;
+    background-color: brown;
+}
